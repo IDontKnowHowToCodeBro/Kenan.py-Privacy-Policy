@@ -16,7 +16,7 @@ Kenan.py respects your privacy. This Privacy Policy explains what information we
 - We implement appropriate security measures to protect user data from unauthorized access, disclosure, or destruction.
 
 ## Changes to Privacy Policy
-- We may update this Privacy Policy from time to time. We will notify users of significant changes via the discord bot.
+- We may update this Privacy Policy from time to time. We will notify users of significant changes via the discord bots patch notes.
 
 ## Contact Us
 If you have any questions about this Privacy Policy, please contact us at kenanidk@gmail.com.
